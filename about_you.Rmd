@@ -3,13 +3,13 @@ title: "First Knit"
 author: "kimberly Lemus munoz"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: '5'
   html_document:
     number_sections: yes
     toc: yes
     toc_depth: 5
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
 ---
 
 # A Little Survey
